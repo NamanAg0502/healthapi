@@ -1,0 +1,71 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+yarn-error.log
+npm-debug.log
+pnp.js
+
+# Runtime data
+pids
+logs
+results
+*.pid
+*.log
+
+# dotenv environment files
+.env
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# JetBrains IDEs
+.idea/
+
+# IDE-specific files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Compiled binary addons (Node.js extensions)
+build/
+
+# Package-lock files
+package-lock.json
+yarn.lock
+
+# Editor directories and files
+.editorconfig
+.eslintignore
+.eslintrc
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools
+
+# Logs
+logs
+*.log
+
+# Typescript
+*.tsbuildinfo
+
+# Docker
+docker-compose.override.yml
+docker-compose.debug.yml
+docker-compose.yml
+.dockerignore
+
+# Thumbnails
+thumb
+
+# Public
+public
